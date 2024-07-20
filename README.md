@@ -76,9 +76,6 @@ My short-term goal is to become proficient in React and start building more comp
 <a href="https://www.linkedin.com/in/yourlinkedinprofile/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
 </a>
-<a href="https://twitter.com/yourtwitterhandle" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" />
-</a>
 </p>
 
 ## See My Portfolio
