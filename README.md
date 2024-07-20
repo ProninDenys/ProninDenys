@@ -52,6 +52,10 @@ My short-term goal is to become proficient in React and start building more comp
 **Technologies Used:** HTML, CSS, JavaScript  
 [View Project](https://github.com/ProninDenys/personal-blog)
 
+### GitHub Streak
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ProninDenys&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ### GitHub Stats
 
 ![Denys's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProninDenys&show_icons=true&theme=radical)
