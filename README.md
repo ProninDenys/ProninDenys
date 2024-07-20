@@ -1,8 +1,10 @@
 # Hi there, I'm Denys Pronin ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-====================================================================================================================================
+
 
 🎓 **Currently studying at IT Academy, specializing in Web Development Front-End.**
+
 🔍 **Focused on:** HTML, CSS, JavaScript, and modern web development practices.
+
 📍 **Based in:** Dublin, Ireland
 
 ## About Me
