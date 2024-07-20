@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 🎓 \*\*Currently studying at IT Academy, specializing in Web Development Front-End.\*\* 
+
 🔍 \*\*Focused on:\*\* HTML, CSS, JavaScript, and modern web development practices.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
