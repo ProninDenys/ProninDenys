@@ -59,29 +59,25 @@ My short-term goal is to become proficient in React and start building more comp
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProninDenys&layout=compact&theme=radical)
 
+### GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ProninDenys&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+### Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=ProninDenys&style=flat-square&color=blue)
+
 ### Socials
 
 <p align="left">
 <a href="https://www.github.com/ProninDenys" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-</picture>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/yourlinkedinprofile/" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-</picture>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
 </a>
 <a href="https://twitter.com/yourtwitterhandle" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-
-</picture>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" />
 </a>
 </p>
 
