@@ -1,5 +1,5 @@
 # Hi there, I'm Denys Pronin ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-====================================================================================================================================
+
 
 🎓 **Currently studying at IT Academy, specializing in Web Development Front-End.**
 
@@ -53,12 +53,6 @@ My short-term goal is to become proficient in React and start building more comp
 **Technologies Used:** HTML, CSS, JavaScript  
 [View Project](https://github.com/ProninDenys/personal-blog)
 
-#### Project 2: E-commerce Website
-![E-commerce Website](https://via.placeholder.com/400x300)  
-**Description:** Collaborating on an e-commerce platform project using React and Firebase to create a user-friendly shopping experience.  
-**Technologies Used:** React, Firebase  
-[View Project](https://github.com/ProninDenys/e-commerce-website)
-
 ### GitHub Stats
 
 ![Denys's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProninDenys&show_icons=true&theme=radical)
@@ -86,7 +80,7 @@ My short-term goal is to become proficient in React and start building more comp
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+
 </picture>
 </a>
 </p>
