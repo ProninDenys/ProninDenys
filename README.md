@@ -20,11 +20,11 @@ I’m Learning Currently, I am diving deeper into: - \*\*HTML:\*\* Semantics, ac
 My short-term goal is to become proficient in React and start building more complex web applications. In the long term, I aspire to be a full-stack developer, capable of handling both front-end and back-end tasks.
 
 * 🌍  I'm based in Dublin, Ireland
-* 
+
 * ✉️  You can contact me at [pronindenys@yahoo.com](mailto:pronindenys@yahoo.com)
 
 * 🤝  I'm open to collaborating on - \*\*Open Source Projects:\*\* Contributing to open source projects related to web development and front-end technologies. - \*\*Web Development Projects:\*\* Collaborating on innovative web development projects that involve HTML, CSS, JavaScript.
-* 
+  
 * ⚡  Feel free to reach out if you have any questions or if you just want to connect! I'm always open to discussing new ideas, collaborating on projects.
 
 ### Skills
