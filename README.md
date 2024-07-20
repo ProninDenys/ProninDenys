@@ -1,6 +1,5 @@
 # Hi there, I'm Denys Pronin ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-
 🎓 **Currently studying at IT Academy, specializing in Web Development Front-End.**
 
 🔍 **Focused on:** HTML, CSS, JavaScript, and modern web development practices.
@@ -66,6 +65,25 @@ My short-term goal is to become proficient in React and start building more comp
 ### Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ProninDenys&style=flat-square&color=blue)
+
+### Activity Graph
+
+[![Denys's github activity graph](https://activity-graph.herokuapp.com/graph?username=ProninDenys&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### Testimonials
+
+> "Denys is a highly motivated and skilled web developer. His ability to quickly grasp new concepts and apply them effectively is impressive." - *John Doe, Senior Developer at TechCompany*
+
+### Certifications and Courses
+
+- **Web Development Bootcamp** - IT Academy
+- **JavaScript Essentials** - Codecademy
+- **React for Beginners** - Udemy
+
+### Blog Posts
+
+- [How to Get Started with Web Development](https://your-blog-url.com/post1)
+- [Top 10 JavaScript Tricks for Beginners](https://your-blog-url.com/post2)
 
 ### Socials
 
