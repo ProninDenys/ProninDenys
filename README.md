@@ -66,10 +66,6 @@ My short-term goal is to become proficient in React and start building more comp
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ProninDenys&style=flat-square&color=blue)
 
-### Testimonials
-
-> "Denys is a highly motivated and skilled web developer. His ability to quickly grasp new concepts and apply them effectively is impressive." - *John Doe, Senior Developer at TechCompany*
-
 ### Certifications and Courses
 
 - **Web Development Bootcamp** - IT Academy
