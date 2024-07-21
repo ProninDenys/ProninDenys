@@ -74,7 +74,7 @@ My short-term goal is to become proficient in React and start building more comp
 
 - **Web Development Bootcamp** - IT Academy
 - **JavaScript Essentials** - Codecademy
-- **React for Beginners** - Udemy
+- **Introduction to Cybersecurity** - Cisco Networking Academy
 
 ### Socials
 
