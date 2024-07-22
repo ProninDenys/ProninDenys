@@ -44,6 +44,27 @@ My short-term goal is to become proficient in React and start building more comp
 <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
 </p>
 
+### Certifications and Courses
+
+- **Web Development Bootcamp** - IT Academy
+- **JavaScript Essentials** - Codecademy
+- **Introduction to Cybersecurity** - Cisco Networking Academy
+
+### Socials
+
+<p align="left">
+<a href="https://www.github.com/ProninDenys" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/yourlinkedinprofile/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+</a>
+</p>
+
+## See My Portfolio
+
+🌐 [My Portfolio](http://your-portfolio-url.com)
+
 ### Projects
 
 #### Project 1: Personal Blog
@@ -69,27 +90,6 @@ My short-term goal is to become proficient in React and start building more comp
 ### Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ProninDenys&style=flat-square&color=blue)
-
-### Certifications and Courses
-
-- **Web Development Bootcamp** - IT Academy
-- **JavaScript Essentials** - Codecademy
-- **Introduction to Cybersecurity** - Cisco Networking Academy
-
-### Socials
-
-<p align="left">
-<a href="https://www.github.com/ProninDenys" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/yourlinkedinprofile/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-</a>
-</p>
-
-## See My Portfolio
-
-🌐 [My Portfolio](http://your-portfolio-url.com)
 
 ---
 
