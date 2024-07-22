@@ -87,9 +87,7 @@ My short-term goal is to become proficient in React and start building more comp
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ProninDenys&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=ProninDenys&style=flat-square&color=blue)
 
 ---
 
