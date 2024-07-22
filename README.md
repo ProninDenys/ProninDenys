@@ -90,5 +90,3 @@ My short-term goal is to become proficient in React and start building more comp
 
 
 ---
-
-✨ **“Keep pushing forward. Always strive for excellence!”** ✨
