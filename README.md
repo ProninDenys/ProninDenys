@@ -1,14 +1,15 @@
-# Hi there, I'm Denys Pronin! ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi there, I'm Denys Pronin! 
 
 🎓 **Web Development Front-End Student at IT Academy**  
+
 💻 **Focused on:** HTML, CSS, JavaScript, and Modern Web Development Practices  
+
 📍 **Based in:** Dublin, Ireland
 
 ## About Me
 
 Hello! I'm Denys, a passionate front-end web developer currently studying at IT Academy. I specialize in building responsive, user-friendly websites and applications using HTML, CSS, and JavaScript. My primary focus is on creating accessible, maintainable, and scalable code. I thrive in environments that encourage continuous learning, and I am always eager to explore new technologies and refine my skills.
 
-⏳ **Last updated:** ![Last updated](https://img.shields.io/github/last-commit/ProninDenys/ProninDenys?color=green)
 
 ### My Journey
 
@@ -58,9 +59,7 @@ My short-term goal is to become proficient in React and start building more comp
 <p align="left">
 <a href="https://github.com/ProninDenys" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/yourlinkedinprofile/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
-<a href="https://twitter.com/yourtwitterprofile" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" /></a>
-<a href="https://medium.com/@yourmediumprofile" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" /></a>
-</p>
+
 
 ### See My Portfolio
 
@@ -88,6 +87,3 @@ My short-term goal is to become proficient in React and start building more comp
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ProninDenys&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Support Me
-
-☕ If you enjoy my work, consider [buying me a coffee](https://www.buymeacoffee.com/denyspronin)!
