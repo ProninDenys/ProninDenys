@@ -1,4 +1,4 @@
-# Hi there, I'm Denys Pronin! 
+# Hi there, I'm Denys Pronin
 
 🎓 **Web Development Front-End Student at IT Academy**  
 
@@ -82,8 +82,3 @@ My short-term goal is to become proficient in React and start building more comp
 ![Denys's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProninDenys&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProninDenys&layout=compact&theme=radical)
-
-### GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ProninDenys&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
