@@ -8,30 +8,16 @@
 
 ## About Me
 
-Hello! I'm Denys, a passionate front-end web developer currently studying at IT Academy. I specialize in building responsive, user-friendly websites and applications using HTML, CSS, and JavaScript. My primary focus is on creating accessible, maintainable, and scalable code. I thrive in environments that encourage continuous learning, and I am always eager to explore new technologies and refine my skills.
-
+Hello! I'm Denys, a front-end web developer. I specialize in building responsive, user-friendly websites and applications using HTML, CSS, and JavaScript. My primary focus is on creating accessible, maintainable, and scalable code. I thrive in environments that encourage continuous learning, and I am always eager to explore new technologies and refine my skills.
 
 ### My Journey
 
-I started my journey in web development because I love the blend of creativity and logic it requires. The process of bringing a design to life and ensuring it functions perfectly on any device is incredibly rewarding. During my time at IT Academy, I have developed a solid foundation in front-end technologies and worked on several projects that challenged me to grow as a developer.
-
-### What I’m Learning
-
-I’m currently enhancing my skills by working on:
-- **React:** Building dynamic and responsive user interfaces.
-- **TypeScript:** Writing more maintainable and scalable code.
-- **Testing:** Implementing unit and integration tests to ensure code quality.
-
-### Goals
-
-My short-term goal is to become proficient in React and start building more complex web applications. In the long term, I aspire to be a full-stack developer, capable of handling both front-end and back-end tasks.
+I started my journey in web development because I love the blend of creativity and logic it requires. The process of bringing a design to life and ensuring it functions perfectly on any device is incredibly rewarding. 
 
 * ✉️  You can contact me at [pronindenys@yahoo.com](mailto:pronindenys@yahoo.com)
 * 🤝  I'm open to collaborating on:
   - **Open Source Projects:** Contributing to open source projects related to web development and front-end technologies.
   - **Web Development Projects:** Collaborating on innovative web development projects that involve HTML, CSS, JavaScript.
-
-⚡  Feel free to reach out if you have any questions or if you just want to connect! I'm always open to discussing new ideas and collaborating on projects.
 
 ### Skills
 
@@ -48,7 +34,6 @@ My short-term goal is to become proficient in React and start building more comp
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-
 
 
 ### Certifications and Courses
