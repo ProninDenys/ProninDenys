@@ -6,6 +6,10 @@
 
 📍 **Based in:** Dublin, Ireland
 
+### See My Portfolio
+
+🌐 [My Portfolio](https://pronindenys.github.io/Portfolio-Pronin-Denys/)
+
 ## About Me
 
 Hello! I'm Denys, a front-end web developer. I specialize in building responsive, user-friendly websites and applications using HTML, CSS, and JavaScript. My primary focus is on creating accessible, maintainable, and scalable code. I thrive in environments that encourage continuous learning, and I am always eager to explore new technologies and refine my skills.
@@ -49,14 +53,3 @@ I started my journey in web development because I love the blend of creativity a
 <a href="https://www.linkedin.com/in/yourlinkedinprofile/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
 
 
-### See My Portfolio
-
-🌐 [My Portfolio](https://pronindenys.github.io/Portfolio-Pronin-Denys/)
-
-### Projects
-
-#### Project 1: Personal Blog
-![Personal Blog](https://via.placeholder.com/400x300)  
-**Description:** Developing a personal blog using HTML, CSS, and JavaScript where I share my journey and learnings in web development.  
-**Technologies Used:** HTML, CSS, JavaScript  
-[View Project](https://pronindenys.github.io/Data-Warehouse-2-site/)
