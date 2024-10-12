@@ -26,7 +26,6 @@ I’m currently enhancing my skills by working on:
 
 My short-term goal is to become proficient in React and start building more complex web applications. In the long term, I aspire to be a full-stack developer, capable of handling both front-end and back-end tasks.
 
-* 🌍  I'm based in Dublin, Ireland
 * ✉️  You can contact me at [pronindenys@yahoo.com](mailto:pronindenys@yahoo.com)
 * 🤝  I'm open to collaborating on:
   - **Open Source Projects:** Contributing to open source projects related to web development and front-end technologies.
