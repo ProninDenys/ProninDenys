@@ -1,6 +1,6 @@
 # Hi there, I'm Denys Pronin
 
-🎓 **Web Development Front-End Student at IT Academy**  
+🎓 **Web Development Front-End**  
 
 💻 **Focused on:** HTML, CSS, JavaScript, and Modern Web Development Practices  
 
