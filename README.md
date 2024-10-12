@@ -59,4 +59,4 @@ I started my journey in web development because I love the blend of creativity a
 ![Personal Blog](https://via.placeholder.com/400x300)  
 **Description:** Developing a personal blog using HTML, CSS, and JavaScript where I share my journey and learnings in web development.  
 **Technologies Used:** HTML, CSS, JavaScript  
-[View Project](https://github.com/ProninDenys/personal-blog)
+[View Project](https://pronindenys.github.io/Data-Warehouse-2-site/)
