@@ -6,9 +6,6 @@
 
 📍 **Based in:** Dublin, Ireland
 
-### See My Portfolio
-
-🌐 [My Portfolio](https://pronindenys.github.io/Portfolio-Pronin-Denys/)
 
 ## About Me
 
@@ -22,6 +19,10 @@ I started my journey in web development because I love the blend of creativity a
 * 🤝  I'm open to collaborating on:
   - **Open Source Projects:** Contributing to open source projects related to web development and front-end technologies.
   - **Web Development Projects:** Collaborating on innovative web development projects that involve HTML, CSS, JavaScript.
+ 
+### See My Portfolio
+
+🌐 [My Portfolio](https://pronindenys.github.io/Portfolio-Pronin-Denys/)
 
 ### Skills
 
