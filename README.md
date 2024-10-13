@@ -4,7 +4,7 @@
 
 💻 **Focused on:** HTML, CSS, JavaScript, and Modern Web Development Practices  
 
-📍 **Based in:** Dublin, Ireland
+📍 **Based in:** Dundalk, Ireland
 
 
 ## About Me
