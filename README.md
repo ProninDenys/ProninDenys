@@ -1,5 +1,3 @@
-# Hi there, I'm Denys Pronin
-
 🎓 **Web Development Front-End**  
 
 💻 **Focused on:** HTML, CSS, JavaScript, and Modern Web Development Practices  
