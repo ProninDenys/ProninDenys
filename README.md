@@ -44,9 +44,9 @@ I started my journey in web development because I love the blend of creativity a
 
 ### Certifications and Courses
 
-- **[Web Development Bootcamp - IT Academy](./2.pdf)** - IT Academy
+- **[Web Development Bootcamp - IT Academy](https://github.com/ProninDenys/certificates/blob/main/2.pdf)** - IT Academy
+- **[Introduction to Cybersecurity - Cisco Networking Academy](https://github.com/ProninDenys/certificates/blob/main/1.pdf)** - Cisco Networking Academy
 - **[JavaScript Essentials](https://www.codecademy.com/learn/javascript-essentials)** - Codecademy
-- **[Introduction to Cybersecurity - Cisco Networking Academy](./1.pdf)** - Cisco Networking Academy
 
 
 ### Socials
