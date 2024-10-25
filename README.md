@@ -50,7 +50,8 @@ I started my journey in web development because I love the blend of creativity a
 
 
 - **Web Development Bootcamp - IT Academy**  
-  [![Web Development Bootcamp - IT Academy](./2-1.jpg)](./web_development_bootcamp_fullsize.png)
+[![Web Development Bootcamp - IT Academy](./1-1.jpg)](./2-1.jpg)
+
 
 - **Introduction to Cybersecurity - Cisco Networking Academy**  
   [![Introduction to Cybersecurity - Cisco Networking Academy](./1-1.jpg)](./cybersecurity_fullsize.png)
