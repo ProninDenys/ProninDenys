@@ -52,10 +52,11 @@ I started my journey in web development because I love the blend of creativity a
 ## Certifications
 
 - **Web Development Bootcamp - IT Academy**  
-  [![Web Development Bootcamp - IT Academy](./2-1.jpg)](./2-1.jpg)
+  ![Web Development Bootcamp - IT Academy](./2-1.jpg)
 
 - **Introduction to Cybersecurity - Cisco Networking Academy**  
-  [![Introduction to Cybersecurity - Cisco Networking Academy](./1-1.jpg)](./1-1.jpg)
+  ![Introduction to Cybersecurity - Cisco Networking Academy](./1-1.jpg)
+
 
 
 
