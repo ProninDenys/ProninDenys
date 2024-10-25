@@ -52,7 +52,7 @@ I started my journey in web development because I love the blend of creativity a
     <img src="https://github.com/ProninDenys/certificates/raw/main/2-1.jpg" alt="Web Development Bootcamp - IT Academy" width="200"/>
   </a>
 
-  - **Introduction to Cybersecurity - Cisco Networking Academy**
+- **Introduction to Cybersecurity - Cisco Networking Academy**
   <a href="https://github.com/ProninDenys/certificates/raw/main/1-1.jpg">
     <img src="https://github.com/ProninDenys/certificates/raw/main/1-1.jpg" alt="Introduction to Cybersecurity - Cisco Networking Academy" width="200"/>
   </a>
