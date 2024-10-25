@@ -49,13 +49,12 @@ I started my journey in web development because I love the blend of creativity a
 - **[JavaScript Essentials](https://www.codecademy.com/learn/javascript-essentials)** - Codecademy
 
 
-## Certifications
-
 - **Web Development Bootcamp - IT Academy**  
-  ![Web Development Bootcamp - IT Academy](./2-1.jpg)
+  ![Web Development Bootcamp - IT Academy](https://github.com/ProninDenys/certificates/raw/main/2-1.jpg)
 
 - **Introduction to Cybersecurity - Cisco Networking Academy**  
-  ![Introduction to Cybersecurity - Cisco Networking Academy](./1-1.jpg)
+  ![Introduction to Cybersecurity - Cisco Networking Academy](https://github.com/ProninDenys/certificates/raw/main/1-1.jpg)
+
 
 
 
