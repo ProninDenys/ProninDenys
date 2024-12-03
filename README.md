@@ -9,6 +9,7 @@
 ### Contact
 
 📫 **Email:** [pronindenys@yahoo.com](mailto:pronindenys@yahoo.com)  
+
 🌐 **Portfolio:** [My Portfolio](https://www.pronindenys.com)
 
 ## About Me
@@ -38,9 +39,6 @@ Hello! I'm Denys, a front-end and back-end web developer passionate about crafti
 <p align="left">
 <a href="https://www.linkedin.com/in/denys-pronin-b00a872b0/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-</a>
-<a href="https://github.com/ProninDenys" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
 </a>
 </p>
 
